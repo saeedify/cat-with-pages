@@ -1,0 +1,1 @@
+react query - correct way to fetch api data
